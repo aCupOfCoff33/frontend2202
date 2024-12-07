@@ -2,25 +2,6 @@ Expert Chat Application
 
 Welcome to the Expert Chat Application! This project is a web-based chat interface where two experts engage in a conversation about strategies to eliminate bullying in classrooms. Users can observe the conversation between Expert 1 and Expert 2 or participate by taking on the role of Expert 2. The application leverages FastAPI for the backend and React with Tailwind CSS for the frontend.
 
-Table of Contents
-
-	•	Features
-	•	Demo
-	•	Technologies Used
-	•	Prerequisites
-	•	Installation
-	•	Backend Setup
-	•	Frontend Setup
-	•	Running the Application
-	•	Starting the Backend Server
-	•	Starting the Frontend Application
-	•	Usage
-	•	Experts Mode
-	•	Expert Interaction Mode
-	•	Project Structure
-	•	Troubleshooting
-	•	Contributing
-	•	License
 
 Features
 
@@ -35,24 +16,6 @@ Demo
 
 Note: Replace the above image with an actual demo GIF showcasing the application.
 
-Technologies Used
-
-	•	Backend:
-	•	FastAPI: A modern, fast (high-performance) web framework for building APIs with Python.
-	•	Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-	•	Sentence Transformers: BERT models for sentence embeddings.
-	•	Uvicorn: A lightning-fast ASGI server implementation.
-	•	Frontend:
-	•	React: A JavaScript library for building user interfaces.
-	•	Tailwind CSS: A utility-first CSS framework for rapid UI development.
-
-Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-	•	Operating System: Windows, macOS, or Linux.
-	•	Python: Version 3.8 or higher.
-	•	Node.js & npm: Ensure you have Node.js (v14 or higher) and npm installed.
-	•	Git: Installed on your system for cloning the repository.
 
 Installation
 
@@ -61,10 +24,7 @@ Follow these steps to set up the project on your local machine.
 Backend Setup
 
 	1.	Clone the Repository
-
-git clone https://github.com/your-username/expert-chat-app.git
-cd expert-chat-app/backend
-
+ 
 
 	2.	Create a Virtual Environment
 It’s recommended to use a virtual environment to manage dependencies.
